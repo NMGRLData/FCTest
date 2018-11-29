@@ -4,7 +4,7 @@
     "analysis_type": "unknown",
     "analyst_name": "MHeizler",
     "collection_version": "1.0:2.0",
-    "comment": "K:69 mix holes 61 & 69",
+    "comment": "K:61 mix holes 61 & 69",
     "commit": "e51924dc1cc450a30267c0b708698b9e9d411aa8",
     "conditionals": [
         {
@@ -86,9 +86,16 @@
             {
                 "device": "AirPressure2",
                 "name": "Pressure2",
-                "pub_date": "2018-11-13T19:07:41",
+                "pub_date": "2018-11-13T13:42:05",
                 "title": "Lab",
-                "value": 87.3
+                "value": 86.9
+            },
+            {
+                "device": "MicroBoneGaugeController",
+                "name": "JanDecabinPressure",
+                "pub_date": "2018-11-12T18:49:48",
+                "title": "Jan Decabin",
+                "value": 1.9
             }
         ],
         "lab_temperatures": [
@@ -102,16 +109,16 @@
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2018-11-13T18:38:30",
+                "pub_date": "2018-11-13T13:50:55",
                 "title": "iServer Temp.",
-                "value": 70.3
+                "value": 71.7
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2018-11-13T19:22:37",
+                "pub_date": "2018-11-13T15:32:11",
                 "title": "Coolant",
-                "value": 15.9
+                "value": 16.0
             },
             {
                 "device": "JanMonitor",
@@ -130,7 +137,7 @@
     "intensity_scalar": 0.0,
     "irradiation": "NM-300",
     "irradiation_level": "K",
-    "irradiation_position": 69,
+    "irradiation_position": 61,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -175,13 +182,13 @@
     "repository_identifier": "FCTest",
     "sample": "FC-2",
     "source": {
-        "emission": 541.345,
-        "trap": 198.259
+        "emission": 541.466,
+        "trap": 198.371
     },
-    "spec_sha": "0200fe868dc7a818a060e8982ba90fe71212a126",
-    "timestamp": "2018-11-13T19:22:42.635889",
+    "spec_sha": "8b57caf88302602718ce2e50c7dc89d1841e1598",
+    "timestamp": "2018-11-13T15:33:45.336839",
     "tripped_conditional": null,
     "username": "MHeizler",
-    "uuid": "3fba9c6b-3c50-42e8-964b-1098b791cca9",
+    "uuid": "cdd6f2f4-e5b9-48bc-84dc-6675f39a21e5",
     "whiff_result": null
 }

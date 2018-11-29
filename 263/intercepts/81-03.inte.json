@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0003197855150278022,
+        "error": 0.0002739794941048795,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -8,10 +8,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "value": 0.011830117855664266
+        "value": 0.007938489598398279
     },
     "Ar37": {
-        "error": 0.00835361850884613,
+        "error": 0.011871783596459037,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -19,10 +19,10 @@
             "std_devs": 2
         },
         "fit": "linear",
-        "value": 1.0051804962314732
+        "value": 1.0651457093792671
     },
     "Ar38": {
-        "error": 0.0039467832320367845,
+        "error": 0.0042962581340663985,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -30,10 +30,10 @@
             "std_devs": 2
         },
         "fit": "linear",
-        "value": 2.8802474496548403
+        "value": 2.6881874168100284
     },
     "Ar39": {
-        "error": 0.029958752096069758,
+        "error": 0.0313680763567891,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -41,10 +41,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "value": 246.83556914574356
+        "value": 230.38021628682424
     },
     "Ar40": {
-        "error": 0.06055503440302795,
+        "error": 0.06300577539619075,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -52,10 +52,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "value": 967.3263445734976
+        "value": 900.4863895608373
     },
     "Ar41": {
-        "error": 0.0027407913371761054,
+        "error": 0.002786299857030569,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -63,6 +63,6 @@
             "std_devs": 2
         },
         "fit": "Average",
-        "value": 0.002373562810689737
+        "value": -0.008985415073590691
     }
 }
