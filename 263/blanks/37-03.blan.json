@@ -1,74 +1,50 @@
 {
     "Ar36": {
-        "error": 0.00025902900785648643,
+        "error": 0.000576115755392027,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bc-02-J-1558"
-            }
-        ],
-        "value": 0.006451531025204152
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.0061224164443085165
     },
     "Ar37": {
-        "error": 0.006084479307954944,
+        "error": 0.002139031073114476,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bc-02-J-1558"
-            }
-        ],
-        "value": 0.04423623388182361
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.030560466822263398
     },
     "Ar38": {
-        "error": 0.0026322230144983126,
+        "error": 0.0009820219823614982,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bc-02-J-1558"
-            }
-        ],
-        "value": 0.011627854623866608
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.006837853702963781
     },
     "Ar39": {
-        "error": 0.012609607482477168,
+        "error": 0.003963989105432163,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bc-02-J-1558"
-            }
-        ],
-        "value": 0.023152899289750575
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.015357600763955146
     },
     "Ar40": {
-        "error": 0.012380369017000754,
+        "error": 0.18605422741576533,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bc-02-J-1558"
-            }
-        ],
-        "value": 1.5998041001758874
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 1.42055487103881
     },
     "Ar41": {
-        "error": 0.004391018482423452,
+        "error": 0.0012594241790403746,
         "error_type": "",
-        "fit": "previous",
-        "references": [
-            {
-                "exclude": false,
-                "record_id": "bc-02-J-1558"
-            }
-        ],
-        "value": 0.012501972396288981
+        "fit": "mass_spec_reduced",
+        "references": "",
+        "reviewed": false,
+        "value": 0.011333304927615135
     }
 }

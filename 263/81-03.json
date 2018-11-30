@@ -4,7 +4,7 @@
     "analysis_type": "unknown",
     "analyst_name": "MHeizler",
     "collection_version": "1.0:2.0",
-    "comment": "K:69 mix holes 61 & 69",
+    "comment": "K:61",
     "commit": "e51924dc1cc450a30267c0b708698b9e9d411aa8",
     "conditionals": [
         {
