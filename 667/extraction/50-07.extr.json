@@ -1,0 +1,33 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "e2eec91f5ff9695715b676fc69480f17712ab5a0",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 4.0,
+    "grain_polygons": [
+        "YidvWUc1VGpWK0pFUHRBTHNBN0FDOEFPd0F2UURzQUw0QTdBQy9BT3dBd0FEc0FNRUE2d0RDQU93QXd3RHNBTVFBN0FERkFPd0F4Z0RzQU1jQTdBRElBT3dBeVFEc0FNb0E3QURMQU93QXpBRHNBTTBBN0FET0FPd0F6d0RzQU5BQTdBRFJBTzBBMFFEdUFORUE3Z0RRQU80QXp3RHZBTTRBOEFET0FQRUF6Z0R5QU00QThnRE5BUElBekFEeUFNc0E4Z0RLQVBJQXlRRHlBTWdBOHdESEFQTUF4Z0R6QU1VQThnREVBUE1Bd3dEekFNSUE4Z0RCQVBJQXdBRHlBTDhBOGdDK0FQSUF2UUR5QUx3QThRQzdBUEFBdXdEdkFMc0E3Z0M3QUE9PSc="
+    ],
+    "load_holder": "9-hole",
+    "load_name": "FusedBeads",
+    "measured_response": "",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
