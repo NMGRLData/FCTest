@@ -173,11 +173,12 @@
         "value": 1.0015649576167227
     },
     "CDD": {
-        "error": 0.0012317,
-        "fit": "mass_spec_reduced",
+        "error": 0.0012233636209813875,
+        "fit": "bulk_edit",
         "references": "",
-        "reviewed": false,
-        "value": 1.003767
+        "reviewed": true,
+        "scalar": 0.9932318104906938,
+        "value": 0.9969733147208123
     },
     "H1": {
         "error": 0.0,
